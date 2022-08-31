@@ -11,15 +11,18 @@
 <a href = "mailto:sergiodornelasdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5581998718925&text=Ola!%20tudo%20bem%3F) 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white )](https://discord.com/users/962411748894310491) 
+<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/110427773/187564483-25cdea51-1996-40a9-86cc-3c8ad9b2f42c.png">
 </div>
 
-## Tecnologias que domino:
+## Tecnologias que domino: 
+
+
 <div style="">
-
-
 <img align="center" alt="sergio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="sergio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="sergio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+
 
   
 ![Snake animation](https://github.com/sergiodornelas/sergiodornelas/blob/output/github-contribution-grid-snake.svg)
