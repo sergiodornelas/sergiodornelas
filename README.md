@@ -11,7 +11,7 @@
 <a href = "mailto:sergiodornelasdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5581998718925&text=Ola!%20tudo%20bem%3F) 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white )](https://discord.com/users/962411748894310491) 
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/110427773/187564483-25cdea51-1996-40a9-86cc-3c8ad9b2f42c.png">
+<img align="right" alt="Jr-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/110427773/187564483-25cdea51-1996-40a9-86cc-3c8ad9b2f42c.png">
 </div>
 
 ## Tecnologias que domino: 
