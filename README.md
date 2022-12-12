@@ -1,7 +1,7 @@
 ## Oiii! Me chamo Sérgio Donelas, é um prazer te ter aqui🤖👋
 <div>
   <a href="https://github.com/sergiodornelas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergiodornelas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><img height="180em"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergiodornelas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><img height="180em"/>
 </div>
 
 <div> <br>
