@@ -14,7 +14,7 @@
 <img align="right" alt="Jr-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/110427773/187564483-25cdea51-1996-40a9-86cc-3c8ad9b2f42c.png">
 </div>
 
-## Conhecimentos: 
+## Conhecimentos e ferramentas: 
 
 
 <div style="">
@@ -23,6 +23,8 @@
 <img align="center" alt="sergio-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 <img align="center" alt="sergio-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img align="center" alt="sergio-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg">
+  <img align="center" alt="sergio-GIT" height="30" width="100" src="https://cdn.svgporn.com/logos/postman.svg">
+  
 
   
     
