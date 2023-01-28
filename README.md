@@ -18,12 +18,12 @@
 
 
 <div style="">
-<img align="center" alt="sergio-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-<img align="center" alt="sergio-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-<img align="center" alt="sergio-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-<img align="center" alt="sergio-GIT" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-<img align="center" alt="sergio-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg">
-  <img align="center" alt="sergio-GIT" height="30" width="100" src="https://cdn.svgporn.com/logos/postman.svg">
+<img align="center" alt="sergio-HTML" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img align="center" alt="sergio-CSS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<img align="center" alt="sergio-GIT" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img align="center" alt="sergio-JAVA" height="37" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="center" alt="sergio-CUCUMBER" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg">
+<img align="center" alt="sergio-POSTMAN" height="35" width="100" src="https://cdn.svgporn.com/logos/postman.svg">
   
 
   
