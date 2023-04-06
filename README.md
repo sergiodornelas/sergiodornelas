@@ -36,7 +36,9 @@
 <img align="center" alt="sergio-CUCUMBER" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg">
 <img align="center" alt="sergio-SWAGGER" height="35" width="40" src="https://cdn.svgporn.com/logos/swagger.svg">
 <img align="center" alt="sergio-POSTMAN" height="35" width="100" src="https://cdn.svgporn.com/logos/postman.svg">
+ <img align="center" alt="sergio-CYPRESS" height="35" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg">
  
+  
 
   
     
