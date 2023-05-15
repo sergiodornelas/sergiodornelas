@@ -46,3 +46,5 @@
 ![Snake animation](https://github.com/sergiodornelas/sergiodornelas/blob/output/github-contribution-grid-snake.svg)
  
 <img align="right" alt="Jr-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/110427773/187564483-25cdea51-1996-40a9-86cc-3c8ad9b2f42c.png">
+
+JJ
