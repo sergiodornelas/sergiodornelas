@@ -1,4 +1,4 @@
-<h1 text align="center"> Olá, Me chamo Sérgio Dornelas!</h1>
+<h1 text align="center"> Hello, my name is Sergio Dornelas!</h1>
 
 <div align="center"> <br>
 
