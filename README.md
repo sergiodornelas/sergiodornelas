@@ -23,33 +23,24 @@
  
   
 
-
-
-  <h1 text align="center"> Conhecimentos e ferramentas: </h1>
-
-<div align="center">
-<img align="center" alt="sergio-HTML" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-<img align="center" alt="sergio-CSS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-<img align="center" alt="sergio-JS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="center" alt="sergio-JS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />     
-<img align="center" alt="sergio-GIT" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-<img align="center" alt="sergio-CUCUMBER" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg">
-<img align="center" alt="sergio-SWAGGER" height="35" width="40" src="https://cdn.svgporn.com/logos/swagger.svg">
-<img align="center" alt="sergio-CYPRESS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg">
-<img align="center" alt="sergio-POSTMAN" height="35" width="100" src="https://cdn.svgporn.com/logos/postman.svg"> 
-
 #### Coding and Tools
 
 ![Static Badge](https://img.shields.io/badge/Cypress-blue?style=flat&logo=cypress&logoSize=auto&label=Tools)
+![Static Badge](https://img.shields.io/badge/Git-blue?style=flat&logo=git&logoSize=auto&label=Tools)
+![Static Badge](https://img.shields.io/badge/Postman-blue?style=flat&logo=postman&logoSize=auto&label=Tools)
 ![Static Badge](https://img.shields.io/badge/K6-blue?style=flat&logo=K6&logoSize=auto&label=Tools)
 ![Static Badge](https://img.shields.io/badge/Jmeter-blue?style=flat&logo=apachejmeter&logoColor=orange&logoSize=auto&label=Tools)
-![Static Badge](https://img.shields.io/badge/Postman-blue?style=flat&logo=postman&logoSize=auto&label=Tools)
+![Static Badge](https://img.shields.io/badge/Mysql-blue?style=flat&logo=mysql&logoSize=auto&label=Tools)
 ![Static Badge](https://img.shields.io/badge/Mocha-blue?style=flat&logo=mocha&logoSize=auto&label=Tools)
 ![Static Badge](https://img.shields.io/badge/Chai-blue?style=flat&logo=chai&logoSize=auto&label=Tools)
 ![Static Badge](https://img.shields.io/badge/Cucumber-blue?style=flat&logo=cucumber&logoSize=auto&label=Tools)
-![Static Badge](https://img.shields.io/badge/Git-blue?style=flat&logo=git&logoSize=auto&label=Tools)
+![Static Badge](https://img.shields.io/badge/Swagger-blue?style=flat&logo=swagger&logoSize=auto&label=Tools)
 ![Static Badge](https://img.shields.io/badge/Jira-blue?style=flat&logo=jirasoftware&logoSize=auto&label=Tools)
 
+![Static Badge](https://img.shields.io/badge/HTML-orange?style=flat&logo=HTML5&logoSize=auto&label=Code)
+![Static Badge](https://img.shields.io/badge/CSS-orange?style=flat&logo=CSS&logoSize=auto&label=Code)
+![Static Badge](https://img.shields.io/badge/Javascript-orange?style=flat&logo=javascript&logoSize=auto&label=Code)
+![Static Badge](https://img.shields.io/badge/Typescript-orange?style=flat&logo=typescript&logoSize=auto&label=Code)
 
 
 
