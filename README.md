@@ -37,7 +37,7 @@
 ![Static Badge](https://img.shields.io/badge/Swagger-blue?style=flat&logo=swagger&logoSize=auto&label=Tools)
 ![Static Badge](https://img.shields.io/badge/Jira-blue?style=flat&logo=jirasoftware&logoSize=auto&label=Tools)
 ![Static Badge](https://img.shields.io/badge/Confluence-blue?style=flat&logo=Confluence&label=Tools)
-![Static Badge](https://img.shields.io/badge/clickup-blue?style=flat&logo=clickup&label=Tools)
+![Static Badge](https://img.shields.io/badge/Clickup-blue?style=flat&logo=Clickup&label=Tools)
 
 
 ![Static Badge](https://img.shields.io/badge/HTML-orange?style=flat&logo=HTML5&logoSize=auto&label=Code)
