@@ -36,6 +36,8 @@
 ![Static Badge](https://img.shields.io/badge/Cucumber-blue?style=flat&logo=cucumber&logoSize=auto&label=Tools)
 ![Static Badge](https://img.shields.io/badge/Swagger-blue?style=flat&logo=swagger&logoSize=auto&label=Tools)
 ![Static Badge](https://img.shields.io/badge/Jira-blue?style=flat&logo=jirasoftware&logoSize=auto&label=Tools)
+![Static Badge](https://img.shields.io/badge/Confluence-blue?style=flat&logo=Confluence&label=Tools)
+
 
 ![Static Badge](https://img.shields.io/badge/HTML-orange?style=flat&logo=HTML5&logoSize=auto&label=Code)
 ![Static Badge](https://img.shields.io/badge/CSS-orange?style=flat&logo=CSS&logoSize=auto&label=Code)
