@@ -24,7 +24,7 @@
  
   
 
-#### Ferramentas e tecnologias
+### 🛠️ Ferramentas e tecnologias
 
 ![Static Badge](https://img.shields.io/badge/Cypress-black?style=flat&logo=cypress&logoSize=auto&label)
 ![Static Badge](https://img.shields.io/badge/Git-black?style=flat&logo=git&logoSize=auto&label)
