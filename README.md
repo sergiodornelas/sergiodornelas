@@ -38,6 +38,7 @@
 ![Static Badge](https://img.shields.io/badge/Jira-black?style=flat&logo=jirasoftware&logoSize=auto&label)
 ![Static Badge](https://img.shields.io/badge/Confluence-black?style=flat&logo=Confluence&label)
 ![Static Badge](https://img.shields.io/badge/Clickup-black?style=flat&logo=Clickup&label)
+
 ![Static Badge](https://img.shields.io/badge/HTML-black?style=flat&logo=HTML5&logoSize=auto&label)
 ![Static Badge](https://img.shields.io/badge/CSS-black?style=flat&logo=CSS&logoSize=auto&label)
 ![Static Badge](https://img.shields.io/badge/Javascript-black?style=flat&logo=javascript&logoSize=auto&label)
