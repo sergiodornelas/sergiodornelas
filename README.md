@@ -1,4 +1,4 @@
-<h1 text align="center">Hello, i'm Sergio Dornelas!</h1>
+<h1 text align="center">Olá, me chamo Sergio Dornelas!</h1>
 
 <div align="center"> <br>
 
@@ -23,27 +23,27 @@
  
   
 
-#### Coding and Tools
+#### Ferramentas e tecnologias
 
-![Static Badge](https://img.shields.io/badge/Cypress-blue?style=flat&logo=cypress&logoSize=auto&label=Tools)
-![Static Badge](https://img.shields.io/badge/Git-blue?style=flat&logo=git&logoSize=auto&label=Tools)
-![Static Badge](https://img.shields.io/badge/Postman-blue?style=flat&logo=postman&logoSize=auto&label=Tools)
-![Static Badge](https://img.shields.io/badge/K6-blue?style=flat&logo=K6&logoSize=auto&label=Tools)
-![Static Badge](https://img.shields.io/badge/Jmeter-blue?style=flat&logo=apachejmeter&logoColor=orange&logoSize=auto&label=Tools)
-![Static Badge](https://img.shields.io/badge/Mysql-blue?style=flat&logo=mysql&logoSize=auto&label=Tools)
-![Static Badge](https://img.shields.io/badge/Mocha-blue?style=flat&logo=mocha&logoSize=auto&label=Tools)
-![Static Badge](https://img.shields.io/badge/Chai-blue?style=flat&logo=chai&logoSize=auto&label=Tools)
-![Static Badge](https://img.shields.io/badge/Cucumber-blue?style=flat&logo=cucumber&logoSize=auto&label=Tools)
-![Static Badge](https://img.shields.io/badge/Swagger-blue?style=flat&logo=swagger&logoSize=auto&label=Tools)
-![Static Badge](https://img.shields.io/badge/Jira-blue?style=flat&logo=jirasoftware&logoSize=auto&label=Tools)
-![Static Badge](https://img.shields.io/badge/Confluence-blue?style=flat&logo=Confluence&label=Tools)
-![Static Badge](https://img.shields.io/badge/Clickup-blue?style=flat&logo=Clickup&label=Tools)
+![Static Badge](https://img.shields.io/badge/Cypress-black?style=flat&logo=cypress&logoSize=auto&label)
+![Static Badge](https://img.shields.io/badge/Git-black?style=flat&logo=git&logoSize=auto&label)
+![Static Badge](https://img.shields.io/badge/Postman-black?style=flat&logo=postman&logoSize=auto&label)
+![Static Badge](https://img.shields.io/badge/K6-black?style=flat&logo=K6&logoSize=auto&label)
+![Static Badge](https://img.shields.io/badge/Jmeter-black?style=flat&logo=apachejmeter&logoColor=orange&logoSize=auto&label)
+![Static Badge](https://img.shields.io/badge/Mysql-black?style=flat&logo=mysql&logoSize=auto&label)
+![Static Badge](https://img.shields.io/badge/Mocha-black?style=flat&logo=mocha&logoSize=auto&label)
+![Static Badge](https://img.shields.io/badge/Chai-black?style=flat&logo=chai&logoSize=auto&label)
+![Static Badge](https://img.shields.io/badge/Cucumber-black?style=flat&logo=cucumber&logoSize=auto&label)
+![Static Badge](https://img.shields.io/badge/Swagger-black?style=flat&logo=swagger&logoSize=auto&label)
+![Static Badge](https://img.shields.io/badge/Jira-black?style=flat&logo=jirasoftware&logoSize=auto&label)
+![Static Badge](https://img.shields.io/badge/Confluence-black?style=flat&logo=Confluence&label)
+![Static Badge](https://img.shields.io/badge/Clickup-black?style=flat&logo=Clickup&label)
 
 
-![Static Badge](https://img.shields.io/badge/HTML-orange?style=flat&logo=HTML5&logoSize=auto&label=Code)
-![Static Badge](https://img.shields.io/badge/CSS-orange?style=flat&logo=CSS&logoSize=auto&label=Code)
-![Static Badge](https://img.shields.io/badge/Javascript-orange?style=flat&logo=javascript&logoSize=auto&label=Code)
-![Static Badge](https://img.shields.io/badge/Typescript-orange?style=flat&logo=typescript&logoSize=auto&label=Code)
+![Static Badge](https://img.shields.io/badge/HTML-black?style=flat&logo=HTML5&logoSize=auto&label)
+![Static Badge](https://img.shields.io/badge/CSS-black?style=flat&logo=CSS&logoSize=auto&label)
+![Static Badge](https://img.shields.io/badge/Javascript-black?style=flat&logo=javascript&logoSize=auto&label)
+![Static Badge](https://img.shields.io/badge/Typescript-black?style=flat&logo=typescript&logoSize=auto&label)
 
 
 
