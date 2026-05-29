@@ -1,7 +1,8 @@
-<h1 text align="center">Olá, me chamo Sergio Dornelas!</h1>
 
-<div align="center"> <br>
+<div align="center"> 
+<h1>Olá, me chamo Sergio Dornelas!</h1> 
 
+**`Analista de QA | STLC & Metodologias Ágeis | Automação UI, API & Performance| Testes funcionais, regressivos & exploratórios.`**
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sérgio-dornelas-ba3946234/) 
 <a href = "mailto:sergiodornelasqa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
