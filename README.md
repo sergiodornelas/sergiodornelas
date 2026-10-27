@@ -12,8 +12,9 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 <br><br>
-<img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sergiodornelas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sergiodornelas&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=sergiodornelas&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" />
+  <br><br>
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sergiodornelas&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
 <br>
 
 ### 🛠️ Ferramentas e tecnologias
