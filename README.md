@@ -36,6 +36,7 @@
 ![Static Badge](https://img.shields.io/badge/CSS-black?style=flat&logo=CSS&logoSize=auto&label)
 ![Static Badge](https://img.shields.io/badge/Javascript-black?style=flat&logo=javascript&logoSize=auto&label)
 ![Static Badge](https://img.shields.io/badge/Typescript-black?style=flat&logo=typescript&logoSize=auto&label)
+![Static Badge](https://img.shields.io/badge/Claude_Code-black?style=flat&logo=claude&logoSize=auto&label)
 
 </div>
 
