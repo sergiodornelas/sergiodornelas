@@ -93,6 +93,7 @@
 
 <div align="center">
   <img height="170" src="https://github-stats-extended.vercel.app/api?username=sergiodornelas&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
+  <br>
   <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sergiodornelas&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
 </div>
 
