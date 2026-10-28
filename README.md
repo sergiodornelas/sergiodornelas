@@ -33,24 +33,13 @@
 
 <table>
   <tr>
-    <td><b>🧪 Automação de testes</b></td>
+    <td><b>⚡ Automação de testes</b></td>
     <td>
       <img src="https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white" alt="Cypress">
       <img src="https://img.shields.io/badge/Mocha-8D6748?style=flat&logo=mocha&logoColor=white" alt="Mocha">
       <img src="https://img.shields.io/badge/Chai-A30701?style=flat&logo=chai&logoColor=white" alt="Chai">
-      <img src="https://img.shields.io/badge/Cucumber-23D96C?style=flat&logo=cucumber&logoColor=white" alt="Cucumber">
-    </td>
-  </tr>
-  <tr>
-    <td><b>🔌 API</b></td>
-    <td>
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman">
       <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black" alt="Swagger">
-    </td>
-  </tr>
-  <tr>
-    <td><b>⚡ Performance</b></td>
-    <td>
       <img src="https://img.shields.io/badge/k6-7D64FF?style=flat&logo=k6&logoColor=white" alt="k6">
       <img src="https://img.shields.io/badge/JMeter-D22128?style=flat&logo=apachejmeter&logoColor=white" alt="JMeter">
     </td>
@@ -83,6 +72,7 @@
     <td>
       <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claude&logoColor=white" alt="Claude Code">
       <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/Cucumber-23D96C?style=flat&logo=cucumber&logoColor=white" alt="Cucumber">
     </td>
   </tr>
 </table>
