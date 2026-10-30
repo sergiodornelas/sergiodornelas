@@ -22,9 +22,7 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🔍 **QA Engineer** com foco no ciclo completo de testes (**STLC**) em times ágeis.
-- 🤖 Automação de testes de **E2E**, **API** e **Performance**.
-- 🧠 IA aplicada a QA: Claude Code e MCP.
+- 🔍 QA Engineer Pleno com +3 anos de experiência em Qualidade de Software, atuando na definição de estratégias de testes e desenvolvimento de automações para apoiar times de engenharia na entrega de software com mais qualidade e confiança.
 - 📬 Vamos conversar? Me chama no [LinkedIn](https://www.linkedin.com/in/sérgio-dornelas-ba3946234/) ou por [e-mail](mailto:sergiodornelasqa@gmail.com)
 
 ---
